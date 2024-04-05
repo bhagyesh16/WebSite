@@ -1,5 +1,5 @@
 import styles from "../styles";
-import {Container,softicon,} from "../assets/index";
+import {  Container,softicon,} from "../assets/index";
 
 
 const Home = () => (
