@@ -1,7 +1,6 @@
 import styles from "../styles";
-import {
-  Container,softicon,} from "../assets/index";
-import Getstared from './getstarted';
+import {Container,softicon,} from "../assets/index";
+
 
 const Home = () => (
   <section id="home" className={`flex 

@@ -18,10 +18,24 @@ const Footer = () => {
             Website Development solutions. Discover what you can achieve with India's leading Customized software
             development solution...
           </p>
+          <p className={`${styles.paragraph} text-white mt-4 max-w-full`}>
+            Address: 832,Belguim Tower, Ring Road,
+                    Surat, Gujarat, India.
+                    395003.
+          </p>
+          
+          <p className={`${styles.paragraph}  text-white mt-4 max-w-full`}>
+            Contact: +91-9328588728
+          </p>
+
+          
+          <p className={`${styles.paragraph}  text-white mt-4 max-w-full`}>
+            Email: info@iits.co.in
+          </p>
         </div>
       </div>
 
-      <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 pb-6 border-b-[1px] border-b-[#3f3r445] ">
+      <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 pb-6 border-b-[1px] border-b-[#3f3r445] border-t-[1px] border-t-[#3f3r445] ">
         <p className="font-poppins font-normal text-center text-[18px] leading-[27px] text-white">
           2024 INTEGRATED IT SOLUTION. All Right Reserved.
         </p>

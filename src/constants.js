@@ -86,7 +86,7 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "No of Products",
+    title: "Products",
     value: "8+",
   },
 ];
