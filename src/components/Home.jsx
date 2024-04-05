@@ -19,7 +19,7 @@ const Home = () => (
         </p>
       </div>
 
-      <div className="flex flex-row
+      <div className="sm:flex flex-row
           justify-between items-center w-full">
         <h1 className="flex-1 font-poppins
           font-semibold text-[30px] sm:text-[38px] text-
@@ -35,6 +35,7 @@ const Home = () => (
           mr-0">
           <Getstared />
         </div>
+
       </div>
 
       <h1 className="font-poppins
