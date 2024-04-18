@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '../styles';
-import { logo } from '../assets';
+import { diamond } from '../assets';
 import { socialMedia } from '../constants';
 
 const Footer = () => {
@@ -12,7 +12,7 @@ const Footer = () => {
     <section className={`${styles.flexCenter} ${styles.paddingY} flex-col border-t-[1px] border-t-[#3f3r445]`}>
       <div className={`${styles.flexStart} md:flex-row flex-col mb-8 w-full`}>
         <div className="flex-1 flex flex-col justify-start mr-10">
-          <img src={logo} alt="IITS" className="w-[265px] h-[72px] object-contain" />
+          <img src={diamond} alt="IITS" className="w-[400px] h-[150px] object-contain" />
           <p className={`${styles.paragraph} mt-4 max-w-full`}>
             Established in the year 2001 as an IT company with an intention to concentrate Software, Mobile app and
             Website Development solutions. Discover what you can achieve with India's leading Customized software

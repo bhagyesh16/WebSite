@@ -26,7 +26,7 @@ import people03 from "./people03.png";
 import Container from "./container-1.png";
 import producticon from "./icon-our-products.png";
 import softicon from "./icon-software-development.png";
-import diamond from "./ic_diamond.png";
+import diamond from "./IITSLOGO.png";
 
 export {
   Container,
